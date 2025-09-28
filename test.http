@@ -4,5 +4,7 @@ Accept: application/json
 Content-Type: application/json
 
 {
-    "name": "test"
+    "name": "halooo",
+    "id": 2,
+    "productId": 330
 }
