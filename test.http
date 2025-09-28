@@ -1,0 +1,8 @@
+### CREATE ORDER
+POST http://localhost:3000/orders
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "test"
+}
